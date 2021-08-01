@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Hello there, I am Shadman Afzal. 👋
+Hello there, I am Yatharth Rajput. 👋
 🔭 I’m currently working on Aptitude and Reasoning.
 🌱 I’m currently learning React-Native.
 💬 Ask me anything related to Flutter or Django.
-📫 How to reach me: Twitter: @JustinKhan123 Linkedin: @shadman-nawab
-⚡ Fun fact: The first virus was created in 1983.
+📫 How to reach me: Linkedin: @yatharthrajput
+⚡ Fun fact: My best skill is googling
 Currently Listening 🎧
 codeSTACKr Spotify Playing
 
