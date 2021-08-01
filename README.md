@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**yatharthrajput/yatharthrajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there, I am Shadman Afzal. 👋
+🔭 I’m currently working on Aptitude and Reasoning.
+🌱 I’m currently learning React-Native.
+💬 Ask me anything related to Flutter or Django.
+📫 How to reach me: Twitter: @JustinKhan123 Linkedin: @shadman-nawab
+⚡ Fun fact: The first virus was created in 1983.
+Currently Listening 🎧
+codeSTACKr Spotify Playing
 
-Here are some ideas to get you started:
+Languages and Tools:
+Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Firebase
+
+Python
+
+GitHub
+
+Terminal
+
+Terminal
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React JS
