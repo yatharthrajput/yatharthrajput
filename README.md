@@ -14,7 +14,7 @@
   
   <p align="center">
   
-  <a heref="https://www.linkedin.com/in/yatharth-rajput-631780188/"   target="_blank">< img src="https://www.flaticon.com/free-icon/linkedin_174857" height="30" width="30"></a>
+  <a heref="https://www.linkedin.com/in/yatharth-rajput-631780188/"   target="_blank">< img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30" width="30"></a>
                                                                                                                  
                                                                                                                    </p>
                                                                                                                   
