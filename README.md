@@ -5,7 +5,7 @@
 🔭 I’m currently working on <strong>Flutter</strong> and <strong>DSA</strong>.<br>
 🌱 I’m currently learning <strong> Artificial Intelligence</strong>.<br>
 📫 How to reach me: Linkedin: <a heref="https://www.linkedin.com/in/yatharth-rajput-631780188/" target="_blank">Yatharth Rajput</a><br>
-⚡ Fun fact: My best skill is <strong>googling</strong>.
+⚡ Fun fact: My best skill is <strong>googling</strong>.<br>
 
 <p align ="center">
   
