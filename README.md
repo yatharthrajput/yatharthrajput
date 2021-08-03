@@ -9,7 +9,7 @@
 
 <p align ="center">
   
-  <img src ="https://github-readme-stats.vercel.app/api?username=yatharthrajput&theme=dark&show_icons=true" alt="yatharthrajput" height="1000" width="3000">
+  <img src ="https://github-readme-stats.vercel.app/api?username=yatharthrajput&theme=dark&show_icons=true" alt="yatharthrajput" height="1000" width="1000">
   </p>
   
   <p align="center">
