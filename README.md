@@ -19,5 +19,4 @@
                                                                                                                  
                                                                                                                    </p>
                                                                                                                   
-                                                                                                                 <p align ="center">
-                                                                                                                                   <a heref = "https://www.linkedin
+                                                                                                                 <p align ="cent                      <a heref = "https://www.linkedin
