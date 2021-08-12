@@ -19,7 +19,7 @@
                                                                                                                  
                                                                                                                    </p>
                                                                                                                   
-<!--                                                                                                                  <p align ="center">
+                                                                                                                 <p align ="center">
                                                                                                                                    <a heref = "https://www.linkedin.com/in/yatharth-rajput-631780188/" target="_blank"><img src="" -->
  
 
