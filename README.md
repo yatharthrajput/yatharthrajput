@@ -31,9 +31,9 @@
 - 📫 How to reach me: [Twitter - @yatharth6989](https://twitter.com/yatharth6989)
 - ⚡ Fun fact: I have an excellent skill:Googling
 
-[![Twitter: Yatharth6989](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: yatharth-rajput](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub yatharthrajput](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![Twitter: Yatharth6989](https://img.shields.io/twitter/follow/yatharth6989?style=social)](https://twitter.com/yatharth6989)
+[![Linkedin: yatharth-rajput](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-rajput-631780188)](https://www.linkedin.com/in/yatharth-rajput-631780188)
+[![GitHub yatharthrajput](https://img.shields.io/github/followers/yatharthrajput?label=follow&style=social)](https://github.com/yatharthrajput)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 
