@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on Flutter and DSA
 - 🌱 I’m currently learning more about ML and AI.
-- 🤔 I’m looking for help with Flutter project
+- 🤔 I’m looking for help with ML projects
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @yatharth6989](https://twitter.com/yatharth6989)
 - ⚡ Fun fact: I have an excellent skill:Googling
@@ -34,7 +34,7 @@
 [![Twitter: Yatharth6989](https://img.shields.io/twitter/follow/yatharth6989?style=social)](https://twitter.com/yatharth6989)
 [![Linkedin: yatharth-rajput](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-rajput-631780188)](https://www.linkedin.com/in/yatharth-rajput-631780188)
 [![GitHub yatharthrajput](https://img.shields.io/github/followers/yatharthrajput?label=follow&style=social)](https://github.com/yatharthrajput)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+<!-- [![website](https://img.shields.io/badge/PortfolioWebsite-yath.live-2648ff?style=flat-square&logo=google-chrome)](https://yath.live/) -->
 
 
 **Languages and Tools:**  
