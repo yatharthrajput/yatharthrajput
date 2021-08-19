@@ -5,7 +5,7 @@
 <a href="https://twitter.com/yatharth6989">
   <img align="left" alt="Yatharth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/yatharth-rajput">
+<a href="https://www.linkedin.com/in/yatharth-rajput-631780188/">
   <img align="left" alt="Yatharth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/iampawan">
