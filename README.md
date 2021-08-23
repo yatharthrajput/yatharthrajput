@@ -11,9 +11,7 @@
 <a href="https://github.com/yatharthrajput">
   <img align="left" alt="Yatharth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Yatharth's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+
 <a href="https://instagram.com/codepur_ka_superhero/">
   <img align="left" alt="Yatharth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
