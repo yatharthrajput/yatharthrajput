@@ -1,4 +1,4 @@
-## Hello, I'm Yatharth Rajpu
+## Hello, I'm Yatharth Rajput
 
 
 
