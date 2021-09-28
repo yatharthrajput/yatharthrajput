@@ -29,6 +29,9 @@
 - 📫 How to reach me: [Twitter - @yatharth6989](https://twitter.com/yatharth6989)
 - ⚡ Fun fact: I have an excellent skill:Googling
 
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 [![Twitter: Yatharth6989](https://img.shields.io/twitter/follow/yatharth6989?style=social)](https://twitter.com/yatharth6989)
 [![Linkedin: yatharth-rajput](https://img.shields.io/badge/-yatharth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-rajput-631780188)](https://www.linkedin.com/in/yatharth-rajput-631780188)
 [![GitHub yatharthrajput](https://img.shields.io/github/followers/yatharthrajput?label=follow&style=social)](https://github.com/yatharthrajput)
