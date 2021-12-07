@@ -36,7 +36,7 @@
 [![Linkedin: yatharth-rajput](https://img.shields.io/badge/-yatharth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-rajput-631780188)](https://www.linkedin.com/in/yatharth-rajput-631780188)
 [![GitHub yatharthrajput](https://img.shields.io/github/followers/yatharthrajput?label=follow&style=social)](https://github.com/yatharthrajput)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-yath.live-2648ff?style=flat-square&logo=google-chrome)](https://yath.live/) -->
- -->
+ 
 
 **Languages and Tools:**  
 
